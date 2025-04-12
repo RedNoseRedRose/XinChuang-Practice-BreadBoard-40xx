@@ -1,0 +1,3 @@
+[submodule "00LogicGates"]
+	path = 00LogicGates
+	url = git@github.com:RedNoseRedRose/xinchuang-practice-course-BreadBoard-40xx-00LogicGates.git
